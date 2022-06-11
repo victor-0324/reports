@@ -14,7 +14,7 @@ while True:
         equipamento = input("Equipamento usado;\n")
         procedencia = input("Digite a procedencia;\n") 
         data = input("Digite a data:\n")
-        tecnico = print(">>>>>>>>>>>>>>>>.\n")
+        tecnico = ">>>>>>>>>>>>>>>>.\n
 
         recebido = ['CLIENTE',cliente, 'EQUIUPAMENTO', equipamento, 'PROCEDENCIA', procedencia, 'DATA:',data,'FIM...',tecnico]
 
